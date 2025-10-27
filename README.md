@@ -153,7 +153,8 @@ Or delete individual resources:
 kubectl delete -f deployment.yml
 kubectl delete -f service.yml
 ```
-
+## Project Screenshots:
+*https://drive.google.com/drive/folders/163WfSB_k15tXuQPfoNNWNRHMcdiFs9Js?usp=sharing*
 ## Notes
 
 - The NodePort will be automatically assigned in the range 30000-32767
